@@ -1,0 +1,2 @@
+setuptools~=39.0.1
+cryptography~=3.4.7
